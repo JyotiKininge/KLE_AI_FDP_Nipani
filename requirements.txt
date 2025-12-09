@@ -1,6 +1,6 @@
 streamlit
 nltk
-scikit-lean==1.6.1
+scikit-learn==1.6.1
 joblib
 pandas
 numpy
